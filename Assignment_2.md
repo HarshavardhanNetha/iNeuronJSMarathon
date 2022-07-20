@@ -20,6 +20,6 @@
 - Use strict is a literal which tells the execution to be done in Strict Mode only.
 - In which the rules can be more stringent like we can't use undeclared variables.
 ```
-"use Strict"
+"use strict"
 a = 10; // throws error 
 ```
