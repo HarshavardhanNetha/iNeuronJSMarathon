@@ -11,8 +11,8 @@
 
 3. Explain all the keywords present in the JavaScript with examples.
 - There are total of 46 keywords in JS.
-- Explaning everything takes much time to type. :|
--  
+- The explanation and example code of majorly used keywords are in /keywords folder.
+
 4. What are shorthand operators, explain with a suitable example?
 - Shorthand operations mean, while assigning the updated value to the same variable instead of writing x = x+1, it's written in shorthand notation like x += 1
 - Ex. y \*= 10 -> translates to y = y\*10
